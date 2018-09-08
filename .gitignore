@@ -1,0 +1,5 @@
+#ignore apiKeys
+resources/apikeys.js
+
+#ignore config
+resources/configs.js
